@@ -4,7 +4,7 @@
 # Disable Infoblox forwarding if necessary.
 
 # Define Infoblox WAPI
-IB_SERVER="infoblox.example.com"
+IB_SERVER="infoblox-grid-master-ip"
 IB_USERNAME="api-username"
 IB_PASSWORD="api-password"
 IB_VIEWS=("Guest" "Internal")
