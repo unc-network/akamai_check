@@ -19,7 +19,7 @@ The root crontab on NIT contains the script and a task to clean up old log files
 
 ## Example Run
 
-This was run against Infoblox test (152.19.255.106) which was configured in the file.
+This was run against Infoblox test grid which was configured in the file.
 
 ~~~~
 [wew@nit bin]$ ./akamai_check.sh 
