@@ -1,7 +1,8 @@
 # akamai_check
 
-Author: Will Whitaker (will.whitaker@unc.edu)
-Description: Detect and respond to failing Akamai forwarders with Infoblox.  
+**Author:** Will Whitaker (will.whitaker@unc.edu)
+
+**Description:** Detect and respond to failing Akamai forwarders with Infoblox.
 
 ## Monitoring
 
