@@ -10,7 +10,7 @@ In some situations, Akamai DNS has failed while Internet access remained up.  In
 
 ## Crontab
 
-The root crontab on NIT contains the script and a task to clean up old log files.
+The root crontab on the test server contains the script and a task to clean up old log files.
 
 ~~~~
 # Akamai check
