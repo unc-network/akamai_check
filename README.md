@@ -5,7 +5,7 @@ Description: Detect and respond to failing Akamai forwarders with Infoblox.
 
 ## Monitoring
 
-In some situations, Akamai DNS has failed while Internet access remained up.  In those situations, a script running on a server will test DNS and manipulate DNS Forwarding configurations in Infoblox accordingly.  This script is expected to work with DNS is actually broken so it has been intentionally written as such.
+In some situations, Akamai DNS has failed while Internet access remained up.  In those situations, a script running on a server will test DNS and manipulate DNS Forwarding configurations in Infoblox accordingly.  This script is expected to work when DNS is actually broken so it has been intentionally written as such.
 
 ## Crontab
 
